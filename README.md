@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdinasir</h1>
-<h3 align="center">A Passionate Frontend Developer | JavaScript & React Enthusiast | Building Modern and Responsive Web Applications</h3>
+<h3 align="center">"Full-Stack Development", "Network Engineering", "Technical Writing"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engahmedabdinasir&label=Profile%20views&color=0e75b6&style=flat" alt="engahmedabdinasir" /> </p>
 
