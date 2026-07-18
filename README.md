@@ -1,38 +1,135 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdinasir</h1>
-<h3 align="center">"Full-Stack Development", "Network Engineering", "Technical Writing"</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engahmedabdinasir&label=Profile%20views&color=0e75b6&style=flat" alt="engahmedabdinasir" /> </p>
+# AHMED ABDINASIR
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engahmedabdinasir" alt="engahmedabdinasir" /></a> </p>
+### Full-Stack Developer • Network Engineer • Technical Writer
 
-- 📫 How to reach me **ashkayare878@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=engAhmedabdinasir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/engahmedabdinasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engahmedabdinasir" height="30" width="40" /></a>
+## Building modern software that solves real problems.
+
+| 🌍 Location | 💼 Status | 🤝 Available |
+|-------------|----------|--------------|
+| Somalia 🇸🇴 | Computer Science Student | Freelance & Collaborations |
+
+</div>
+
+---
+
+# 🧭 Who I Am
+
+I'm a **Full-Stack Developer** and **Network Engineering enthusiast** from **Somalia**.
+
+I enjoy designing and building scalable web applications, REST APIs, and modern user interfaces. Alongside software development, I'm passionate about networking, Linux systems, and technical writing.
+
+My goal is to build software that is simple, fast, secure, and useful.
+
+---
+
+# 💻 About Me
+
+```yaml
+role: Full-Stack Developer
+based_in: Somalia 🇸🇴
+studying: Computer Science
+focus:
+  - Backend Development
+  - Frontend Development
+  - Network Engineering
+  - Technical Writing
+
+currently_learning:
+  - Django REST Framework
+  - Next.js
+  - Docker
+  - Linux
+  - Cybersecurity
+
+available_for:
+  - Freelance Projects
+  - Open Source
+  - Collaborations
+
+status: Open to Work
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,flutter" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engahmedabdinasir&show_icons=true&locale=en&layout=compact" alt="engahmedabdinasir" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,php,java" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engahmedabdinasir&show_icons=true&locale=en" alt="engahmedabdinasir" /></p>
+### Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engahmedabdinasir&" alt="engahmedabdinasir" /></p>
-## Hi there 👋
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+</p>
 
-<!--
-**engAhmedabdinasir/engAhmedabdinasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=engAhmedabdinasir&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=engAhmedabdinasir&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engAhmedabdinasir&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🚀 Full-Stack Web Applications
+- 📡 Network Engineering Labs
+- 📝 Technical Articles
+- 🌍 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:ashkayare878@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/engahmedabdinasir">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/engAhmedabdinasir">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building software with clean architecture, great user experience, and real-world impact."
+
+</div>
