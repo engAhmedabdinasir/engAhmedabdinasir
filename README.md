@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=250&color=0:312E81,50:4F46E5,100:06B6D4&text=Ahmed%20Abdinasir&fontColor=ffffff&fontSize=46&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Network%20Engineer&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F172A,100:3B82F6&text=Ahmed%20Abdinasir&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Designing%20Reliable%20Software%20with%20Clean%20Architecture&descSize=17" width="100%"/>
 
 
 <p>
