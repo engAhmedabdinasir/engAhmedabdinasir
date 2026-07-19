@@ -15,7 +15,7 @@ Building scalable web applications, modern APIs, and clean user experiences.
 </a>
 
 <a href="https://instagram.com/engahmedabdinasir">
-<img src="https://img.shields.io/badge/Instagram-Follow7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow 7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
