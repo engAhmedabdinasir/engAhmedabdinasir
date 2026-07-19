@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:2563EB,70:0EA5A3,100:14B8A6&height=280&section=header&text=Ahned%20Abdinasir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Network%20Engineer%20%C2%B7%20Computer%20Science%20Student&descAlignY=52&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=250&color=0:312E81,50:4F46E5,100:06B6D4&text=Ahmed%20Abdinasir&fontColor=ffffff&fontSize=46&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Network%20Engineer&descSize=18" width="100%"/>
 
 
 
