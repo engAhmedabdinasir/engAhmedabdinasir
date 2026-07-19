@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0D1117,20:161B22,55:2563EB,100:06B6D4&text=Ahmed%20Abdinasir&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=twinkling&desc=Building%20Modern%20Software%20with%20Clean%20Architecture&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&customColorList=0,4,8,12,16,20,24,28&text=Ahmed%20Abdinasir&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20•%20Network%20Engineer%20•%20Open%20Source%20Contributor&descSize=20&descAlignY=58" width="100%"/>
 </p>
-
 
 <p>
 Building scalable web applications, modern APIs, and clean user experiences.
