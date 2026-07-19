@@ -1,56 +1,74 @@
 <div align="center">
 
-# AHMED ABDINASIR
+# Ahmed Abdinasir
 
-### Full-Stack Developer • Network Engineer • Technical Writer
+### Full-Stack Developer • Network Engineer • Computer Science Student
 
-<img src="https://komarev.com/ghpvc/?username=engAhmedabdinasir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p>
+Building scalable web applications, modern APIs, and clean user experiences.
+</p>
 
-## Building modern software that solves real problems.
+<img src="https://komarev.com/ghpvc/?username=engAhmedabdinasir&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-| 🌍 Location | 💼 Status | 🤝 Available |
-|-------------|----------|--------------|
-| Somalia 🇸🇴 | Computer Science Student | Freelance & Collaborations |
+<p>
+
+<a href="mailto:ashkayare878@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/engahmedabdinasir">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+> **"Designing reliable software with clean architecture and exceptional user experience."**
 
 </div>
 
 ---
 
-# 🧭 Who I Am
+# 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Network Engineering enthusiast** from **Somalia**.
+I'm a passionate **Full-Stack Developer** from **Somalia 🇸🇴** specializing in building modern web applications from idea to deployment.
 
-I enjoy designing and building scalable web applications, REST APIs, and modern user interfaces. Alongside software development, I'm passionate about networking, Linux systems, and technical writing.
+I enjoy creating software that is:
 
-My goal is to build software that is simple, fast, secure, and useful.
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🎨 Beautiful
+
+Alongside software engineering, I'm continuously improving my knowledge in **Networking**, **Linux**, **Cloud Technologies**, and **System Design**.
 
 ---
 
-# 💻 About Me
+# 💼 Professional Profile
 
 ```yaml
-role: Full-Stack Developer
-based_in: Somalia 🇸🇴
-studying: Computer Science
-focus:
+Name: Ahmed Abdinasir
+Location: Somalia 🇸🇴
+Role: Full-Stack Developer
+Education: Computer Science
+
+Specialization:
   - Backend Development
   - Frontend Development
+  - REST APIs
+  - Database Design
   - Network Engineering
-  - Technical Writing
 
-currently_learning:
-  - Django REST Framework
+Current Focus:
+  - Django & Django REST Framework
   - Next.js
+  - PostgreSQL
   - Docker
   - Linux
-  - Cybersecurity
 
-available_for:
-  - Freelance Projects
-  - Open Source
-  - Collaborations
-
-status: Open to Work
+Status:
+  Open for Freelance
+  Open Source Collaboration
+  Internship Opportunities
 ```
 
 ---
@@ -59,77 +77,91 @@ status: Open to Work
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,flutter" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,php,java" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,php"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
 </p>
 
-### Tools
+### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=engAhmedabdinasir&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=engAhmedabdinasir&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=engAhmedabdinasir&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=engAhmedabdinasir&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engAhmedabdinasir&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engAhmedabdinasir&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Working On
+# 🌱 What I'm Working On
 
-- 🚀 Full-Stack Web Applications
+- 🚀 Production-ready Full-Stack Applications
+- 🔐 Authentication & Authorization Systems
+- 🌐 RESTful APIs
 - 📡 Network Engineering Labs
-- 📝 Technical Articles
-- 🌍 Open Source Contributions
+- ☁️ Docker & Cloud Deployment
+- 📝 Technical Documentation
 
 ---
 
-# 📫 Connect With Me
+# 🎯 2026 Goals
+
+- ✅ Build impactful SaaS products
+- ✅ Contribute to Open Source
+- ✅ Master System Design
+- ✅ Learn Kubernetes
+- ✅ Become an Expert Backend Engineer
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:ashkayare878@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 
-<a href="https://instagram.com/engahmedabdinasir">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="mailto:ashkayare878@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/engAhmedabdinasir">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+<a href="https://instagram.com/engahmedabdinasir">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building software with clean architecture, great user experience, and real-world impact."
+### ⭐ "Code with purpose. Build with quality. Learn without limits."
 
 </div>
